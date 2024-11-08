@@ -1,6 +1,6 @@
 # Técnicas de Análisis de Datos
 
-Material del curso UTEM
+Material del curso
 
 
 | Recursos      | Descripcción | Link |
